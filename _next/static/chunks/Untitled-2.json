@@ -1,0 +1,982 @@
+{
+            "created_at": "2023-08-01T14:51:14.869Z",
+            "published_at": "2023-10-20T10:17:46.833Z",
+            "name": "Faux Fur Runes Coat",
+            "id": 348789628,
+            "uuid": "a175f057-d937-44a1-9832-802febdb1990",
+            "slug": "faux-fur-rune-coat",
+            "full_slug": "products/clothing/elden-ring/faux-fur-rune-coat",
+            "group_id": "089d5cc1-e8fe-427f-bfe2-cc711118f97e",
+            "path": null,
+            "tag_list": [],
+            "content": {
+                "SEO": {
+                    "title": "Faux Fur Rune Coat - ARK/8 x Elden Ring",
+                    "description": "Brown faux fur rune coat. Lined with 'The Lands Between' map and featuring a rune patch on the back.",
+                    "image": "https://ark8.net/default-og-image.jpg"
+                },
+                "gallery": {
+                    "mainModel": "female",
+                    "images": {
+                        "female": [{
+                            "asset": {
+                                "id": 11135433,
+                                "alt": "Model wears ARK/8 Faux Fur Rune Coat open off the shoulder in a Size M/L - Front View",
+                                "name": "",
+                                "title": "",
+                                "source": "",
+                                "copyright": "",
+                                "fieldtype": "asset",
+                                "meta_data": {},
+                                "content_type": "png",
+                                "is_external_url": false,
+                                "dimensions": {
+                                    "width": 1200,
+                                    "height": 1681,
+                                    "ratio": 0.7138607971445569
+                                },
+                                "focus": {
+                                    "x": 600,
+                                    "xPercent": 50,
+                                    "y": 840.5,
+                                    "yPercent": 50
+                                },
+                                "filename": "https://a.storyblok.com/f/161230/1200x1681/07d3a8d8bd/coat040er_00089.png"
+                            },
+                            "id": 11135433,
+                            "ratio": "1200/1681",
+                            "isFullModelImage": true
+                        }, {
+                            "asset": {
+                                "id": 11136057,
+                                "alt": "Model wears Faux Fur Rune Coat in M/L - Front View",
+                                "name": "",
+                                "title": "",
+                                "source": "",
+                                "copyright": "",
+                                "fieldtype": "asset",
+                                "meta_data": {},
+                                "is_external_url": false,
+                                "dimensions": {
+                                    "width": 1200,
+                                    "height": 1680,
+                                    "ratio": 0.7142857142857143
+                                },
+                                "focus": {
+                                    "x": 600,
+                                    "xPercent": 50,
+                                    "y": 840,
+                                    "yPercent": 50
+                                },
+                                "filename": "https://a.storyblok.com/f/161230/1200x1680/813c88e5c5/coat040er-front-female.png"
+                            },
+                            "id": 11136057,
+                            "ratio": "1200/1680",
+                            "isFullModelImage": true
+                        }, {
+                            "asset": {
+                                "id": 11135463,
+                                "alt": "Model wears ARK/8 Faux Fur Rune Coat in a Size M/L - Side View",
+                                "name": "",
+                                "title": "",
+                                "source": "",
+                                "copyright": "",
+                                "fieldtype": "asset",
+                                "meta_data": {},
+                                "is_external_url": false,
+                                "dimensions": {
+                                    "width": 1200,
+                                    "height": 1680,
+                                    "ratio": 0.7142857142857143
+                                },
+                                "focus": {
+                                    "x": 600,
+                                    "xPercent": 50,
+                                    "y": 840,
+                                    "yPercent": 50
+                                },
+                                "filename": "https://a.storyblok.com/f/161230/1200x1680/4716297b3e/coat040er-side-female.png"
+                            },
+                            "id": 11135463,
+                            "ratio": "1200/1680",
+                            "isFullModelImage": true
+                        }, {
+                            "asset": {
+                                "id": 11135454,
+                                "alt": "Model wears ARK/8 Faux Fur Rune Coat in a Size M/L - Back View",
+                                "name": "",
+                                "title": "",
+                                "source": "",
+                                "copyright": "",
+                                "fieldtype": "asset",
+                                "meta_data": {},
+                                "is_external_url": false,
+                                "dimensions": {
+                                    "width": 1200,
+                                    "height": 1680,
+                                    "ratio": 0.7142857142857143
+                                },
+                                "focus": {
+                                    "x": 600,
+                                    "xPercent": 50,
+                                    "y": 840,
+                                    "yPercent": 50
+                                },
+                                "filename": "https://a.storyblok.com/f/161230/1200x1680/374ac53d83/coat040er-back-female.png"
+                            },
+                            "id": 11135454,
+                            "ratio": "1200/1680",
+                            "isFullModelImage": true
+                        }, {
+                            "asset": {
+                                "id": 11133546,
+                                "alt": "Faux Fur Runes Coat - Front view",
+                                "name": "",
+                                "title": "",
+                                "source": "",
+                                "copyright": "",
+                                "fieldtype": "asset",
+                                "meta_data": {},
+                                "is_external_url": false,
+                                "dimensions": {
+                                    "width": 1200,
+                                    "height": 1681,
+                                    "ratio": 0.7138607971445569
+                                },
+                                "focus": {
+                                    "x": 600,
+                                    "xPercent": 50,
+                                    "y": 840.5,
+                                    "yPercent": 50
+                                },
+                                "filename": "https://a.storyblok.com/f/161230/1200x1681/c56ae036c0/020_ark8_furry-coat_front.png"
+                            },
+                            "id": 11133546,
+                            "ratio": "1200/1681",
+                            "isFullModelImage": false
+                        }, {
+                            "asset": {
+                                "id": 11133547,
+                                "alt": "Faux Fur Runes Coat - Back View",
+                                "name": "",
+                                "title": "",
+                                "source": "",
+                                "copyright": "",
+                                "fieldtype": "asset",
+                                "meta_data": {},
+                                "is_external_url": false,
+                                "dimensions": {
+                                    "width": 1200,
+                                    "height": 1681,
+                                    "ratio": 0.7138607971445569
+                                },
+                                "focus": {
+                                    "x": 600,
+                                    "xPercent": 50,
+                                    "y": 840.5,
+                                    "yPercent": 50
+                                },
+                                "filename": "https://a.storyblok.com/f/161230/1200x1681/9be1588f02/019_ark8_furry-coat_back.png"
+                            },
+                            "id": 11133547,
+                            "ratio": "1200/1681",
+                            "isFullModelImage": false
+                        }],
+                        "male": [{
+                            "asset": {
+                                "id": 11135477,
+                                "alt": "Model wears ARK/8 Faux Fur Rune Coat in a Size M/L - Side View",
+                                "name": "",
+                                "title": "",
+                                "source": "",
+                                "copyright": "",
+                                "fieldtype": "asset",
+                                "meta_data": {},
+                                "is_external_url": false,
+                                "dimensions": {
+                                    "width": 1200,
+                                    "height": 1680,
+                                    "ratio": 0.7142857142857143
+                                },
+                                "focus": {
+                                    "x": 600,
+                                    "xPercent": 50,
+                                    "y": 840,
+                                    "yPercent": 50
+                                },
+                                "filename": "https://a.storyblok.com/f/161230/1200x1680/fa2e71881e/coat040er-side-male.png"
+                            },
+                            "id": 11135477,
+                            "ratio": "1200/1680",
+                            "isFullModelImage": true
+                        }, {
+                            "asset": {
+                                "id": 11135473,
+                                "alt": "Model wears ARK/8 Faux Fur Rune Coat in a Size M/L - Front View",
+                                "name": "",
+                                "title": "",
+                                "source": "",
+                                "copyright": "",
+                                "fieldtype": "asset",
+                                "meta_data": {},
+                                "is_external_url": false,
+                                "dimensions": {
+                                    "width": 1200,
+                                    "height": 1680,
+                                    "ratio": 0.7142857142857143
+                                },
+                                "focus": {
+                                    "x": 600,
+                                    "xPercent": 50,
+                                    "y": 840,
+                                    "yPercent": 50
+                                },
+                                "filename": "https://a.storyblok.com/f/161230/1200x1680/3e9463109d/coat040er-front-male.png"
+                            },
+                            "id": 11135473,
+                            "ratio": "1200/1680",
+                            "isFullModelImage": true
+                        }, {
+                            "asset": {
+                                "id": 11135475,
+                                "alt": "Model wears ARK/8 Faux Fur Rune Coat in a Size M/L - Back View",
+                                "name": "",
+                                "title": "",
+                                "source": "",
+                                "copyright": "",
+                                "fieldtype": "asset",
+                                "meta_data": {},
+                                "is_external_url": false,
+                                "dimensions": {
+                                    "width": 1200,
+                                    "height": 1680,
+                                    "ratio": 0.7142857142857143
+                                },
+                                "focus": {
+                                    "x": 600,
+                                    "xPercent": 50,
+                                    "y": 840,
+                                    "yPercent": 50
+                                },
+                                "filename": "https://a.storyblok.com/f/161230/1200x1680/10deaa74a6/coat040er-back-male.png"
+                            },
+                            "id": 11135475,
+                            "ratio": "1200/1680",
+                            "isFullModelImage": true
+                        }, {
+                            "asset": {
+                                "id": 11133546,
+                                "alt": "Faux Fur Runes Coat - Front view",
+                                "name": "",
+                                "title": "",
+                                "source": "",
+                                "copyright": "",
+                                "fieldtype": "asset",
+                                "meta_data": {},
+                                "is_external_url": false,
+                                "dimensions": {
+                                    "width": 1200,
+                                    "height": 1681,
+                                    "ratio": 0.7138607971445569
+                                },
+                                "focus": {
+                                    "x": 600,
+                                    "xPercent": 50,
+                                    "y": 840.5,
+                                    "yPercent": 50
+                                },
+                                "filename": "https://a.storyblok.com/f/161230/1200x1681/c56ae036c0/020_ark8_furry-coat_front.png"
+                            },
+                            "id": 11133546,
+                            "ratio": "1200/1681",
+                            "isFullModelImage": false
+                        }, {
+                            "asset": {
+                                "id": 11133547,
+                                "alt": "Faux Fur Runes Coat - Back View",
+                                "name": "",
+                                "title": "",
+                                "source": "",
+                                "copyright": "",
+                                "fieldtype": "asset",
+                                "meta_data": {},
+                                "is_external_url": false,
+                                "dimensions": {
+                                    "width": 1200,
+                                    "height": 1681,
+                                    "ratio": 0.7138607971445569
+                                },
+                                "focus": {
+                                    "x": 600,
+                                    "xPercent": 50,
+                                    "y": 840.5,
+                                    "yPercent": 50
+                                },
+                                "filename": "https://a.storyblok.com/f/161230/1200x1681/9be1588f02/019_ark8_furry-coat_back.png"
+                            },
+                            "id": 11133547,
+                            "ratio": "1200/1681",
+                            "isFullModelImage": false
+                        }]
+                    },
+                    "modelSwitch": [{
+                        "label": "female",
+                        "asset": {
+                            "alt": "Model wears ARK/8 Faux Fur Rune Coat open off the shoulder in a Size M/L - Front View",
+                            "id": 11135433,
+                            "focus": {
+                                "x": 600,
+                                "xPercent": 50,
+                                "y": 840.5,
+                                "yPercent": 50
+                            },
+                            "filename": "https://a.storyblok.com/f/161230/1200x1681/07d3a8d8bd/coat040er_00089.png/m/450x150/filters:focal(650x0:400x150)"
+                        }
+                    }, {
+                        "label": "male",
+                        "asset": {
+                            "alt": "Model wears ARK/8 Faux Fur Rune Coat in a Size M/L - Side View",
+                            "id": 11135477,
+                            "focus": {
+                                "x": 600,
+                                "xPercent": 50,
+                                "y": 840,
+                                "yPercent": 50
+                            },
+                            "filename": "https://a.storyblok.com/f/161230/1200x1680/fa2e71881e/coat040er-side-male.png/m/450x150/filters:focal(650x0:400x150)"
+                        }
+                    }],
+                    "_editable": ""
+                },
+                "journalEntry": {
+                    "slug": "journal/our-process/behind-the-lands-between",
+                    "asset": {
+                        "_uid": "f1be51f3-c490-4a2e-814a-7fdedfc400a4",
+                        "large": {
+                            "id": 11959918,
+                            "alt": "7",
+                            "name": "",
+                            "focus": "",
+                            "title": "",
+                            "source": "",
+                            "filename": "https://a.storyblok.com/f/161230/x/9b43d13b82/7.mp4",
+                            "copyright": "",
+                            "fieldtype": "asset",
+                            "meta_data": {},
+                            "is_external_url": false
+                        },
+                        "small": {
+                            "id": 11922748,
+                            "alt": "WIDE-ER-2",
+                            "name": "",
+                            "focus": "",
+                            "title": "",
+                            "source": "",
+                            "filename": "https://a.storyblok.com/f/161230/1920x1080/7fc62bd2e8/wide-er-2.jpg",
+                            "copyright": "",
+                            "fieldtype": "asset",
+                            "meta_data": {},
+                            "is_external_url": false
+                        },
+                        "medium": {
+                            "id": null,
+                            "alt": null,
+                            "name": "",
+                            "focus": null,
+                            "title": null,
+                            "source": null,
+                            "filename": "",
+                            "copyright": null,
+                            "fieldtype": "asset",
+                            "meta_data": {}
+                        },
+                        "poster": {
+                            "id": 11922725,
+                            "alt": "ER",
+                            "name": "",
+                            "focus": "",
+                            "title": "",
+                            "source": "",
+                            "filename": "https://a.storyblok.com/f/161230/6346x9062/24ad20a13c/20230707_az_ark8_aw23_shot_04_0732.jpg",
+                            "copyright": "",
+                            "fieldtype": "asset",
+                            "meta_data": {},
+                            "is_external_url": false
+                        },
+                        "component": "responsiveAsset"
+                    },
+                    "title": "Behind The Lands Between",
+                    "categoryName": "Our process",
+                    "date": "11.10.2023",
+                    "journalMaskBackgroundColor": "lightGrey2",
+                    "_editable": ""
+                },
+                "product": {
+                    "name": "Faux Fur Runes Coat",
+                    "label": "pre-order",
+                    "preOrderEstimatedDate": "2023-11-25 12:00",
+                    "isSpecialProduct": false,
+                    "specialProductMedia": {
+                        "id": 10496036,
+                        "alt": "test",
+                        "name": "",
+                        "focus": "",
+                        "title": "",
+                        "source": "",
+                        "filename": "https://a.storyblok.com/f/161230/1920x1080/6379b68920/wide-er-2.png",
+                        "copyright": "",
+                        "fieldtype": "asset",
+                        "meta_data": {},
+                        "is_external_url": false
+                    },
+                    "specialProductMediaPoster": {
+                        "id": null,
+                        "alt": null,
+                        "name": "",
+                        "focus": null,
+                        "title": null,
+                        "source": null,
+                        "filename": "",
+                        "copyright": null,
+                        "fieldtype": "asset",
+                        "meta_data": {}
+                    },
+                    "totalAmount": "",
+                    "maleModelHeight": "189",
+                    "femaleModelHeight": "177",
+                    "femaleModelSize": "m",
+                    "maleModelSize": "m",
+                    "mainDescription": "ECOPEL faux fur coat in brown. Lined with The Lands Between map all-over print. Featuring a faux leather embossed Rune patch on the back.",
+                    "mainDescriptionCredits": "Â©BNEI / Â©FromSoftware, Inc.",
+                    "price_int": "900.00",
+                    "price_us": "250",
+                    "category": {
+                        "categoryName": "Coats & Jackets",
+                        "categorySlug": "coats-jackets",
+                        "categoryFullSlug": "categories/clothing/coats-jackets/"
+                    },
+                    "subCategory": {
+                        "subCategoryName": "",
+                        "subCategorySlug": ""
+                    },
+                    "soldOutWishlistMessage": "",
+                    "accordions": [{
+                        "title": "Size Guide",
+                        "content": {
+                            "type": "doc",
+                            "content": [{
+                                "type": "bullet_list",
+                                "content": [{
+                                    "type": "list_item",
+                                    "content": [{
+                                        "type": "paragraph",
+                                        "content": [{
+                                            "text": "Designed for an oversize fit.",
+                                            "type": "text",
+                                            "marks": [{
+                                                "type": "textStyle",
+                                                "attrs": {
+                                                    "color": ""
+                                                }
+                                            }]
+                                        }]
+                                    }]
+                                }, {
+                                    "type": "list_item",
+                                    "content": [{
+                                        "type": "paragraph",
+                                        "content": [{
+                                            "text": "This is a naturally oversized garment, take your normal size to achieve the model look.  ",
+                                            "type": "text"
+                                        }]
+                                    }]
+                                }, {
+                                    "type": "list_item",
+                                    "content": [{
+                                        "type": "paragraph",
+                                        "content": [{
+                                            "text": "Size down for a more relaxed fit.",
+                                            "type": "text"
+                                        }]
+                                    }]
+                                }, {
+                                    "type": "list_item",
+                                    "content": [{
+                                        "type": "paragraph",
+                                        "content": [{
+                                            "text": "Male model Egon is 185cm tall and wears a Medium.",
+                                            "type": "text",
+                                            "marks": [{
+                                                "type": "textStyle",
+                                                "attrs": {
+                                                    "color": "rgb(17, 17, 17)"
+                                                }
+                                            }]
+                                        }]
+                                    }]
+                                }, {
+                                    "type": "list_item",
+                                    "content": [{
+                                        "type": "paragraph",
+                                        "content": [{
+                                            "text": "Female model Anais is 177cm and wears a Medium.",
+                                            "type": "text",
+                                            "marks": [{
+                                                "type": "textStyle",
+                                                "attrs": {
+                                                    "color": null
+                                                }
+                                            }]
+                                        }]
+                                    }]
+                                }]
+                            }]
+                        },
+                        "isSizeGuideAccordion": true,
+                        "_editable": "",
+                        "accordions": []
+                    }, {
+                        "title": "Materials",
+                        "content": {
+                            "type": "doc",
+                            "content": [{
+                                "type": "paragraph"
+                            }]
+                        },
+                        "isSizeGuideAccordion": false,
+                        "_editable": "",
+                        "accordions": [{
+                            "title": "Materials",
+                            "type": "material_accordion",
+                            "description": "Faux fur 30% recycled polyester, 70% Acrylic, Made in China (from Ecopel) Sew-on ECO aluminium finish sew-on press studs at center front Recycled PU patch at back 100% cupro lining - print",
+                            "content": [{
+                                "_uid": "1a6663cd-da2c-4039-a032-11aeee54b533",
+                                "material": {
+                                    "label": "OUTER",
+                                    "sentence": "{{ECOPEL Faux Fur}} 30% Recycled Polyester, 70% Acrylic, made in China (from Ecopel)",
+                                    "material": {
+                                        "created_at": "2023-09-04T14:02:47.356Z",
+                                        "published_at": "2023-09-04T14:11:22.773Z",
+                                        "name": "ECOPEL Faux Fur",
+                                        "id": 365534409,
+                                        "uuid": "ce4e174e-56d8-4511-8698-290d8220b8d5",
+                                        "slug": "ecopel-faux-fur",
+                                        "full_slug": "global/products/materials/ecopel-faux-fur",
+                                        "group_id": "805a5c6a-d488-4d6d-8fd5-ef2721ebe8cd",
+                                        "path": null,
+                                        "tag_list": [],
+                                        "content": {
+                                            "materialID": "ECO-FF",
+                                            "hideOnIndex": false,
+                                            "title": "ECOPEL Faux Fur",
+                                            "smallDescription": "ECOPEL Faux Fur",
+                                            "description": "ECOPEL is a pioneer in faux fur development, and has more than 15 years of experience in the field. They specialise in creating true to life synthetic fur that feels as warm, comfortable and luxurious as possible. ",
+                                            "thumbnail": {
+                                                "id": 10950096,
+                                                "alt": "ecopel-faux-fur",
+                                                "name": "",
+                                                "focus": "",
+                                                "title": "",
+                                                "source": "",
+                                                "filename": "https://a.storyblok.com/f/161230/1922x1198/1ff00a48c8/ecopel-faux-fur.png",
+                                                "copyright": "",
+                                                "fieldtype": "asset",
+                                                "meta_data": {},
+                                                "is_external_url": false
+                                            },
+                                            "colourHex": "#000000",
+                                            "colourValues": [],
+                                            "composition": [],
+                                            "supplier": {
+                                                "title": "",
+                                                "thumbnail": {},
+                                                "country": "",
+                                                "link": {}
+                                            },
+                                            "_editable": "",
+                                            "component": "Material"
+                                        }
+                                    },
+                                    "title": "ECOPEL Faux Fur",
+                                    "slug": "ecopel-faux-fur",
+                                    "id": "",
+                                    "thumbnail": {
+                                        "id": 10950096,
+                                        "alt": "ecopel-faux-fur",
+                                        "name": "",
+                                        "focus": "",
+                                        "title": "",
+                                        "source": "",
+                                        "filename": "https://a.storyblok.com/f/161230/1922x1198/1ff00a48c8/ecopel-faux-fur.png",
+                                        "copyright": "",
+                                        "fieldtype": "asset",
+                                        "meta_data": {},
+                                        "is_external_url": false
+                                    },
+                                    "percentage": "",
+                                    "information": "",
+                                    "_editable": ""
+                                },
+                                "care": {
+                                    "icon": "",
+                                    "description": "",
+                                    "_editable": ""
+                                },
+                                "production": {
+                                    "title": "",
+                                    "thumbnail": {},
+                                    "country": "",
+                                    "link": [],
+                                    "_editable": ""
+                                }
+                            }, {
+                                "_uid": "02935068-4545-42f3-a41a-ee8c94c69894",
+                                "material": {
+                                    "label": "LINING",
+                                    "sentence": "100% {{Cupro}}",
+                                    "material": {
+                                        "created_at": "2023-03-30T13:39:57.799Z",
+                                        "published_at": "2023-09-25T13:16:14.286Z",
+                                        "name": "Cupro",
+                                        "id": 284565376,
+                                        "uuid": "c47f3ee1-3a33-4cb0-88ae-f5c8a9b4d321",
+                                        "slug": "cupro",
+                                        "full_slug": "global/products/materials/cupro",
+                                        "group_id": "c4f840ad-fd7f-4a11-bbce-07a36124c4af",
+                                        "path": null,
+                                        "tag_list": [],
+                                        "content": {
+                                            "materialID": "Cupro ID",
+                                            "hideOnIndex": false,
+                                            "title": "Cupro",
+                                            "smallDescription": "Cupro is a â€˜regenerated celluloseâ€™ fabric made from cotton waste",
+                                            "description": "Cupro is a â€˜regenerated celluloseâ€™ fabric made from cotton waste",
+                                            "thumbnail": {
+                                                "id": 11296678,
+                                                "alt": "cupro pic",
+                                                "name": "",
+                                                "focus": "",
+                                                "title": "",
+                                                "source": "",
+                                                "filename": "https://a.storyblok.com/f/161230/886x550/8b62f9bca7/cupro.jpg",
+                                                "copyright": "",
+                                                "fieldtype": "asset",
+                                                "meta_data": {},
+                                                "is_external_url": false
+                                            },
+                                            "colourHex": "#000000",
+                                            "colourValues": [],
+                                            "composition": [],
+                                            "supplier": {
+                                                "title": "",
+                                                "thumbnail": {},
+                                                "country": "",
+                                                "link": {}
+                                            },
+                                            "_editable": "",
+                                            "component": "Material"
+                                        }
+                                    },
+                                    "title": "Cupro",
+                                    "slug": "cupro",
+                                    "id": "",
+                                    "thumbnail": {
+                                        "id": 11296678,
+                                        "alt": "cupro pic",
+                                        "name": "",
+                                        "focus": "",
+                                        "title": "",
+                                        "source": "",
+                                        "filename": "https://a.storyblok.com/f/161230/886x550/8b62f9bca7/cupro.jpg",
+                                        "copyright": "",
+                                        "fieldtype": "asset",
+                                        "meta_data": {},
+                                        "is_external_url": false
+                                    },
+                                    "percentage": "",
+                                    "information": "",
+                                    "_editable": ""
+                                },
+                                "care": {
+                                    "icon": "",
+                                    "description": "",
+                                    "_editable": ""
+                                },
+                                "production": {
+                                    "title": "",
+                                    "thumbnail": {},
+                                    "country": "",
+                                    "link": [],
+                                    "_editable": ""
+                                }
+                            }],
+                            "_editable": ""
+                        }, {
+                            "title": "production",
+                            "type": "production_accordion",
+                            "description": "We work closely with our partners to ensure each item is responsibly sourced and manufactured.",
+                            "content": [{
+                                "_uid": "",
+                                "material": {
+                                    "label": "",
+                                    "sentence": "",
+                                    "material": {},
+                                    "title": "",
+                                    "slug": "",
+                                    "id": "",
+                                    "thumbnail": [],
+                                    "percentage": "",
+                                    "information": "",
+                                    "_editable": ""
+                                },
+                                "care": {
+                                    "icon": "",
+                                    "description": "",
+                                    "_editable": ""
+                                },
+                                "production": {
+                                    "title": "AAC TÃªxteis",
+                                    "thumbnail": {
+                                        "id": 12076091,
+                                        "alt": "AAC TÃªxteis logo",
+                                        "name": "",
+                                        "title": "",
+                                        "source": "",
+                                        "copyright": "",
+                                        "fieldtype": "asset",
+                                        "meta_data": {},
+                                        "is_external_url": false,
+                                        "dimensions": {
+                                            "width": 500,
+                                            "height": 676,
+                                            "ratio": 0.7396449704142012
+                                        },
+                                        "focus": {
+                                            "x": 250,
+                                            "xPercent": 50,
+                                            "y": 338,
+                                            "yPercent": 50
+                                        },
+                                        "filename": "https://a.storyblok.com/f/161230/500x676/5f61398166/aac-texteis-logo.jpg"
+                                    },
+                                    "country": "Portugal",
+                                    "link": {
+                                        "id": "",
+                                        "url": "https://www.aactextiles.com",
+                                        "linktype": "url",
+                                        "fieldtype": "multilink",
+                                        "cached_url": "https://www.aactextiles.com"
+                                    },
+                                    "_editable": ""
+                                }
+                            }],
+                            "_editable": ""
+                        }]
+                    }],
+                    "environmentTitle": "",
+                    "environment": [],
+                    "thumbnail": {
+                        "id": 10987819,
+                        "alt": "Faux Fur Runes Coat - Thumbnail",
+                        "name": "",
+                        "focus": "",
+                        "title": "",
+                        "source": "",
+                        "filename": "https://a.storyblok.com/f/161230/600x600/695d56a83e/020_ark8_furry-coat_front_suffix_thumb.png",
+                        "copyright": "",
+                        "fieldtype": "asset",
+                        "meta_data": {},
+                        "content_type": "jpg",
+                        "is_external_url": false
+                    },
+                    "shopifyId": "gid://shopify/Product/8539957297469",
+                    "shopifyUSId": ""
+                },
+                "collection": {
+                    "name": "The Lands Between",
+                    "title": "*AW23*/\nDelving into \n_The Lands Between_",
+                    "slug": "elden-ring",
+                    "asset": {
+                        "id": 11709713,
+                        "alt": "Jasmine Asia models The Lands Between Bomber Jacket",
+                        "name": "",
+                        "focus": "",
+                        "title": "",
+                        "source": "",
+                        "filename": "https://a.storyblok.com/f/161230/1920x1080/d100aaab6f/wide-er-2.jpg",
+                        "copyright": "",
+                        "fieldtype": "asset",
+                        "meta_data": {},
+                        "is_external_url": false
+                    },
+                    "date": "10.31.2023",
+                    "journalMaskBackgroundColor": "lightGrey2",
+                    "_editable": ""
+                },
+                "sizeGuide": {
+                    "rowsCentimeters": [{
+                        "_uid": "2cdc4c91-6418-4870-8ef6-562aa6024998",
+                        "label": "Shoulder Width",
+                        "values": [{
+                            "_uid": "40ac3951-461f-4ea4-8d4d-1dd9b23f416a",
+                            "size": "XS/S",
+                            "value": "63",
+                            "component": "size_chart_value"
+                        }, {
+                            "_uid": "9b3e5a77-5d75-4e79-8472-1c427ca66642",
+                            "size": "M/L",
+                            "value": "66",
+                            "component": "size_chart_value"
+                        }, {
+                            "_uid": "c21c2fec-96a1-4698-903f-484ad3440a77",
+                            "size": "XL/2XL",
+                            "value": "70.5",
+                            "component": "size_chart_value"
+                        }],
+                        "component": "size_chart_values_row"
+                    }, {
+                        "_uid": "a398476e-5f2b-4e66-a217-9ae5055051cd",
+                        "label": "Chest",
+                        "values": [{
+                            "_uid": "c27f2c75-91f4-4d1e-affe-ba076a0acb6a",
+                            "size": "XS/S",
+                            "value": "70",
+                            "component": "size_chart_value"
+                        }, {
+                            "_uid": "7c096efc-1ad3-4a70-a314-6cbcdd732a11",
+                            "size": "M/L",
+                            "value": "75",
+                            "component": "size_chart_value"
+                        }, {
+                            "_uid": "004d5785-e61b-403a-86c1-9e74e163683d",
+                            "size": "XL/2XL",
+                            "value": "81",
+                            "component": "size_chart_value"
+                        }],
+                        "component": "size_chart_values_row"
+                    }, {
+                        "_uid": "48736fd5-be9a-4cf0-b952-e5cad7c733a5",
+                        "label": "Body Length",
+                        "values": [{
+                            "_uid": "256e0344-c5ce-4dc1-8701-d5d240672f75",
+                            "size": "XS/S",
+                            "value": "67.5",
+                            "component": "size_chart_value"
+                        }, {
+                            "_uid": "3e7c8e90-c32b-441f-90d4-6811ccb7dd3d",
+                            "size": "M/L",
+                            "value": "69.5",
+                            "component": "size_chart_value"
+                        }, {
+                            "_uid": "9da8ad9c-48bf-460a-a436-ee91192cbc2b",
+                            "size": "XL/2XL",
+                            "value": "72.5",
+                            "component": "size_chart_value"
+                        }],
+                        "component": "size_chart_values_row"
+                    }, {
+                        "_uid": "08e5f0a8-bf8e-4a40-a9cb-d1518f53c05b",
+                        "label": "Sleeve Length",
+                        "values": [{
+                            "_uid": "c82b9550-b12f-43d7-a72d-42e2c5e12fd6",
+                            "size": "XS/S",
+                            "value": "57",
+                            "component": "size_chart_value"
+                        }, {
+                            "_uid": "414c4728-99de-485b-977d-332d6406b368",
+                            "size": "M/L",
+                            "value": "61",
+                            "component": "size_chart_value"
+                        }, {
+                            "_uid": "8050efbb-9a4f-4118-b4a5-bc861f929a4e",
+                            "size": "XL/2XL",
+                            "value": "66",
+                            "component": "size_chart_value"
+                        }],
+                        "component": "size_chart_values_row"
+                    }],
+                    "rowsInches": [{
+                        "_uid": "19a4741f-ee45-4497-bdd0-108626ca0a13",
+                        "label": "Shoulder Width",
+                        "values": [{
+                            "_uid": "355b1d7c-1b75-43c6-a451-05717cdac4e5",
+                            "size": "XS/S",
+                            "value": "24.8",
+                            "component": "size_chart_value"
+                        }, {
+                            "_uid": "eda263c5-f8ea-4a22-8f7d-c9e233c68b6d",
+                            "size": "M/L",
+                            "value": "26.0",
+                            "component": "size_chart_value"
+                        }, {
+                            "_uid": "83ec0b11-af3e-4e21-9b53-121a247f0e92",
+                            "size": "XL/2XL",
+                            "value": "27.8",
+                            "component": "size_chart_value"
+                        }],
+                        "component": "size_chart_values_row"
+                    }, {
+                        "_uid": "bfa1bc65-0072-490c-a55c-a96b54a31fd7",
+                        "label": "Chest",
+                        "values": [{
+                            "_uid": "616b3e17-51ef-4e39-a1f0-47f87d237b34",
+                            "size": "XS/S",
+                            "value": "27.6",
+                            "component": "size_chart_value"
+                        }, {
+                            "_uid": "07c780d2-3120-4260-8720-98e0d963fe53",
+                            "size": "M/L",
+                            "value": "29.5",
+                            "component": "size_chart_value"
+                        }, {
+                            "_uid": "18c24091-0c9f-4045-9905-32d85ad4b8ba",
+                            "size": "XL/2XL",
+                            "value": "31.9",
+                            "component": "size_chart_value"
+                        }],
+                        "component": "size_chart_values_row"
+                    }, {
+                        "_uid": "22d73ea3-86bb-42fc-be5c-d7ce978db97b",
+                        "label": "Body Length",
+                        "values": [{
+                            "_uid": "e628ab37-c86b-442d-9e24-33564d7f7b20",
+                            "size": "XS/S",
+                            "value": "33.1",
+                            "component": "size_chart_value"
+                        }, {
+                            "_uid": "38f2b73f-e780-4c08-bb0d-91174e170c0b",
+                            "size": "M/L",
+                            "value": "33.9",
+                            "component": "size_chart_value"
+                        }, {
+                            "_uid": "d3f4b4ab-3b5d-4b9e-b894-c4fc7527903e",
+                            "size": "XL/2XL",
+                            "value": "35.0",
+                            "component": "size_chart_value"
+                        }],
+                        "component": "size_chart_values_row"
+                    }, {
+                        "_uid": "41a73d68-2705-4a86-93f7-51a8fd8ecc55",
+                        "label": "Sleeve Length",
+                        "values": [{
+                            "_uid": "b11d6275-0d7e-4045-8f4b-aafaf1041371",
+                            "size": "XS/S",
+                            "value": "22.4",
+                            "component": "size_chart_value"
+                        }, {
+                            "_uid": "f4b435b7-fb26-44ce-850f-8a1a4f6c974b",
+                            "size": "M/L",
+                            "value": "24.0",
+                            "component": "size_chart_value"
+                        }, {
+                            "_uid": "66b3c5b6-b9ee-45d9-a8b5-5b034359ec1f",
+                            "size": "XL/2XL",
+                            "value": "26.0",
+                            "component": "size_chart_value"
+                        }],
+                        "component": "size_chart_values_row"
+                    }]
+                },
+                "component": "Product"
+            }
+        }
