@@ -25,7 +25,7 @@
                         g = "undefined" == typeof document ? "".concat("https://ark8.net").concat(c) : window.location.href;
                     return (0, o.jsxs)(i(), {
                         children: [(0, o.jsx)("title", {
-                            children: "/[locale]" === p ? t : "".concat(t, " | ARK/8")
+                            children: "/[locale]" === p ? t : "".concat(t, " | PLANT®")
                         }), (0, o.jsx)("meta", {
                             name: "viewport",
                             content: "width=device-width, initial-scale=1, maximum-scale=1"

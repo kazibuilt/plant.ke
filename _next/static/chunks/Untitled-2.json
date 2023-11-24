@@ -11,7 +11,7 @@
             "tag_list": [],
             "content": {
                 "SEO": {
-                    "title": "Faux Fur Rune Coat - ARK/8 x Elden Ring",
+                    "title": "Faux Fur Rune Coat - PLANT® x Elden Ring",
                     "description": "Brown faux fur rune coat. Lined with 'The Lands Between' map and featuring a rune patch on the back.",
                     "image": "https://ark8.net/default-og-image.jpg"
                 },
@@ -21,7 +21,7 @@
                         "female": [{
                             "asset": {
                                 "id": 11135433,
-                                "alt": "Model wears ARK/8 Faux Fur Rune Coat open off the shoulder in a Size M/L - Front View",
+                                "alt": "Model wears PLANT® Faux Fur Rune Coat open off the shoulder in a Size M/L - Front View",
                                 "name": "",
                                 "title": "",
                                 "source": "",
@@ -76,7 +76,7 @@
                         }, {
                             "asset": {
                                 "id": 11135463,
-                                "alt": "Model wears ARK/8 Faux Fur Rune Coat in a Size M/L - Side View",
+                                "alt": "Model wears PLANT® Faux Fur Rune Coat in a Size M/L - Side View",
                                 "name": "",
                                 "title": "",
                                 "source": "",
@@ -103,7 +103,7 @@
                         }, {
                             "asset": {
                                 "id": 11135454,
-                                "alt": "Model wears ARK/8 Faux Fur Rune Coat in a Size M/L - Back View",
+                                "alt": "Model wears PLANT® Faux Fur Rune Coat in a Size M/L - Back View",
                                 "name": "",
                                 "title": "",
                                 "source": "",
@@ -185,7 +185,7 @@
                         "male": [{
                             "asset": {
                                 "id": 11135477,
-                                "alt": "Model wears ARK/8 Faux Fur Rune Coat in a Size M/L - Side View",
+                                "alt": "Model wears PLANT® Faux Fur Rune Coat in a Size M/L - Side View",
                                 "name": "",
                                 "title": "",
                                 "source": "",
@@ -212,7 +212,7 @@
                         }, {
                             "asset": {
                                 "id": 11135473,
-                                "alt": "Model wears ARK/8 Faux Fur Rune Coat in a Size M/L - Front View",
+                                "alt": "Model wears PLANT® Faux Fur Rune Coat in a Size M/L - Front View",
                                 "name": "",
                                 "title": "",
                                 "source": "",
@@ -239,7 +239,7 @@
                         }, {
                             "asset": {
                                 "id": 11135475,
-                                "alt": "Model wears ARK/8 Faux Fur Rune Coat in a Size M/L - Back View",
+                                "alt": "Model wears PLANT® Faux Fur Rune Coat in a Size M/L - Back View",
                                 "name": "",
                                 "title": "",
                                 "source": "",
@@ -322,7 +322,7 @@
                     "modelSwitch": [{
                         "label": "female",
                         "asset": {
-                            "alt": "Model wears ARK/8 Faux Fur Rune Coat open off the shoulder in a Size M/L - Front View",
+                            "alt": "Model wears PLANT® Faux Fur Rune Coat open off the shoulder in a Size M/L - Front View",
                             "id": 11135433,
                             "focus": {
                                 "x": 600,
@@ -335,7 +335,7 @@
                     }, {
                         "label": "male",
                         "asset": {
-                            "alt": "Model wears ARK/8 Faux Fur Rune Coat in a Size M/L - Side View",
+                            "alt": "Model wears PLANT® Faux Fur Rune Coat in a Size M/L - Side View",
                             "id": 11135477,
                             "focus": {
                                 "x": 600,

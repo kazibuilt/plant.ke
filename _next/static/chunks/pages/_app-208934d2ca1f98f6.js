@@ -4742,7 +4742,7 @@
               children: [(0, d.jsxs)(et.Z, {
                 tag: "span",
                 font: "b3",
-                children: ["\xa9 ", new Date().getFullYear(), " ARK/8"]
+                children: ["\xa9 ", new Date().getFullYear(), " PLANT®"]
               }), C.map(function (n) {
                 var r = n.label,
                   o = n.slug;
@@ -5079,7 +5079,7 @@
               o = (0, ev._)((0, eJ.y)(r), 1)[0];
             return {
               "@type": "WebSite",
-              name: "ARK/8",
+              name: "PLANT®",
               url: "https://ark8.net/".concat(r),
               "@id": "https://ark8.net/".concat(r, "/#website"),
               inLanguage: o,
@@ -5095,7 +5095,7 @@
             var r = n.locale;
             return {
               "@type": "Organization",
-              name: "ARK/8",
+              name: "PLANT®",
               url: "https://ark8.net/".concat(r, "/"),
               logo: "https://ark.net/ark8-logo.svg",
               "@id": "https://ark8.net/".concat(r, "/#organization"),
@@ -5160,7 +5160,7 @@
                 "@id": "https://ark8.net/".concat(r, "/").concat(i, "/products/").concat(K, "/").concat(w, "#product"),
                 image: G || "",
                 description: V || eX.DW,
-                brand: "ARK/8",
+                brand: "PLANT®",
                 offers: {
                   "@type": "Offer",
                   itemOffered: {
@@ -10048,7 +10048,7 @@
                   isSkipFocused: eT,
                   isLogoLightTheme: eo,
                   children: [(0, d.jsx)(r7, {}), (0, d.jsx)(nX.Z, {
-                    children: "ARK/8"
+                    children: "PLANT®"
                   })]
                 }), (0, d.jsx)(oc, {
                   isSkipFocused: eT
@@ -13531,8 +13531,8 @@
           return i
         }
       });
-      var i = "ARK/8 | Official Store",
-        a = 'ark/8 ("ark/eight") is an apparel, accessories and fine jewelry brand based in Brussels, Belgium. At ark/8, we love SF movies, Anime, Video Games, Low-fi and Hi-fi, Fantasy, Comics, Japan and Digital Art (in no particular order). Our aim is to translate that love into compelling collaborations that are built to last.',
+      var i = "PLANT® | Official Store",
+        a = 'PLANT® ("ark/eight") is an apparel, accessories and fine jewelry brand based in Brussels, Belgium. At PLANT®, we love SF movies, Anime, Video Games, Low-fi and Hi-fi, Fantasy, Comics, Japan and Digital Art (in no particular order). Our aim is to translate that love into compelling collaborations that are built to last.',
         adaptSEO = function (n) {
           var r = n || {},
             o = r.title,

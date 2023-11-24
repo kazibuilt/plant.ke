@@ -3821,7 +3821,7 @@
                         },
                         $isOverflowing: F,
                         children: [(0, r.jsx)(RowRender, {
-                            label: "ARK/8 size",
+                            label: "PLANT® size",
                             values: N,
                             sizeLabelsLength: N.length,
                             isOverflowing: F
